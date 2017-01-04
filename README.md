@@ -1,7 +1,9 @@
 ### 安装办法：
 
-1.点击 Clone or download 下载zip并解压，假设你下载在桌面上
-2.打开R，用install_local函数安装，输入" devtools::install_local('c:/users/yourname/desktop/recharts-master') " 即可
+1. 点击 Clone or download 下载zip并解压，假设你下载在桌面上
+2. 打开R，用install_local函数安装，输入" devtools::install_local('c:/users/yourname/desktop/recharts-master') " 即可
+
+
 ---
 
 v 0.1-3
