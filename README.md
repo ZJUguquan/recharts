@@ -1,9 +1,11 @@
+### 写在前面：
+这个包很强大，作者是madlogos，几乎囊括了百度echarts2的所有常用参数，让你不需要懂JS就能画出各种动态图~~
+
 ### 安装办法：
-
 1. 点击 Clone or download 下载zip并解压，假设你下载在桌面上
-2. 打开R，用install_local函数安装，输入" devtools::install_local('c:/users/yourname/desktop/recharts-master') " 即可
+2. 打开R，用install_local函数安装，输入" if(!require(devtools))install.packages('devtools');    devtools::install_local('c:/users/yourname/desktop/recharts-master') " 即可
 
-
+### 以下是作者写的说明文档
 ---
 
 v 0.1-3
